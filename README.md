@@ -7,4 +7,4 @@ A website that shows the use of different shapes arranged using absolute positio
 - A fixed circular box
 
 # Live Deployment
-You can view the live deployment at this [link.](https://css-marathon-1.netlify.app)
+You can view the live deployment at this [link.](https://css-marathon-2.netlify.app)
